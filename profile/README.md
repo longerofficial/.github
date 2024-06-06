@@ -1,3 +1,2 @@
 ## Hi there 👋
-
-This is public and private github repositories for Shenzhen Longer Technology Co., Ltd.
+We are a smart hardware company that provides affordable 3D printers and engravers
